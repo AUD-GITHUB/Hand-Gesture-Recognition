@@ -1,0 +1,42 @@
+body
+{
+  color: white;
+  background:linear-gradient(#33ccff  0% , #ccccff 100%);
+}
+span
+{
+  font-size: 30px;
+  color: black;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_gesture_name1
+{
+  color: black;
+}
+.gesture_name
+{
+  font-size: 40px;
+}
+.gesture
+{
+  font-size:48px;
+}
+
+.heading{
+  font-size: 30px;
+  border: 2px dotted white;
+  border-radius: 5px;
+}
+#space{
+  height: 20px;
+  width: 100%;
+}
+h2{
+  border-radius: 5px;
+  width: fit-content;
+}
